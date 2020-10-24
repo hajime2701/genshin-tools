@@ -204,8 +204,8 @@ export default {
         },
         moraToTargetLvl() {
             const lvlingCost = this.expToTargetLvl * MORA_PER_EXP;
-
-            return lvlingCost + this.totalAscensionCost;
+            const totalCost = lvlingCost + this.totalAscensionCost - this.mora;
+            return totalCost > 0 ? totalCost : 0;
         },
         expPerLeylineRun() {
             return this.getExpFromBooks(this.worldLvl.expBooks);
