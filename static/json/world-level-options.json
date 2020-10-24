@@ -1,0 +1,74 @@
+[
+    {
+        "value": {
+            "lvl": 0,
+            "expBooks": {
+                "purple": 0,
+                "red": 3,
+                "white": 7
+            },
+            "mora": 12000
+        },
+        "text": "0"
+    },
+    {
+        "value": {
+            "lvl": 1,
+            "expBooks": {
+                "purple": 0,
+                "red": 5,
+                "white": 10
+            },
+            "mora": 20000
+        },
+        "text": "1"
+    },
+    {
+        "value": {
+            "lvl": 2,
+            "expBooks": {
+                "purple": 0,
+                "red": 10,
+                "white": 0
+            },
+            "mora": 28000
+        },
+        "text": "2"
+    },
+    {
+        "value": {
+            "lvl": 3,
+            "expBooks": {
+                "purple": 0,
+                "red": 13,
+                "white": 0
+            },
+            "mora": 44000
+        },
+        "text": "3"
+    },
+    {
+        "value": {
+            "lvl": 4,
+            "expBooks": {
+                "purple": 2,
+                "red": 6,
+                "white": 0
+            },
+            "mora": 44000
+        },
+        "text": "4"
+    },
+    {
+        "value": {
+            "lvl": 5,
+            "expBooks": {
+                "purple": 3,
+                "red": 6,
+                "white": 0
+            },
+            "mora": 52000
+        },
+        "text": "5"
+    }
+]
