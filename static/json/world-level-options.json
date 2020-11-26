@@ -70,5 +70,17 @@
             "mora": 52000
         },
         "text": "5"
+    },
+    {
+        "value": {
+            "lvl": 6,
+            "expBooks": {
+                "purple": 4,
+                "red": 6,
+                "white": 0
+            },
+            "mora": 60000
+        },
+        "text": "6"
     }
 ]
